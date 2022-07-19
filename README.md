@@ -24,3 +24,16 @@ art NLP models on unstructured data (earning call transcripts),
 and reach the state-of-the-art accuracy levels. Therefore, our work
 is expected to provide an empirical baseline for companies and
 researchers to measure the digital strategy of the firms.
+
+
+Earning Call transcripts of S&P 500 companies in 2018 and 2019, 3691 documents are available at:
+
+```
+https://drive.google.com/drive/folders/1LR08Px8Ke4aB4RRBPMxWFolqzZ6Wq35W?usp=sharing
+```
+
+Or simply call:
+
+```
+!gdown --id 1LR08Px8Ke4aB4RRBPMxWFolqzZ6Wq35W
+```
