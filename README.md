@@ -27,6 +27,7 @@ and reach the state-of-the-art accuracy levels. Therefore, our work
 is expected to provide an empirical baseline for companies and
 researchers to measure the digital strategy of the firms.
 
+
 <p align="center">
   <img width="800" src="benchmark.png" alt="The Results">
 </p>
