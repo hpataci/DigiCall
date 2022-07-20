@@ -5,12 +5,11 @@ important phenomenon that enables growth opportunities to organizations.
 Digital transformation reinvents the company, its vision
 and strategy, organizational structure, processes, capabilities, culture,
 and enables the development of new or enhanced products
-and services delivered to customers more efficiently [9]. Organizations,
+and services delivered to customers more efficiently. Organizations,
 by formalizing their digital strategy and leveraging their
-digital resources, plan for their digital transformations [6]. In order
+digital resources, plan for their digital transformations . In order
 to evaluate and understand the status quo of a company’s digital
-transformation, the literature measures the status of its digital strategy
-[26]. Therefore, understanding how successful a company is in
+transformation, the literature measures the status of its digital strategy. Therefore, understanding how successful a company is in
 its digital strategy formulation and leveraging its digital resources,
 starts with its accurate measurement and prediction of its digital
 maturity levels. However, existing ways of assessing organizations’
