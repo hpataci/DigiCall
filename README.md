@@ -1,8 +1,6 @@
 
-<h1 align="center">DigiCall</h1>
-<p align="center">
-**DigiCall: A Benchmark for Digital Strategy through Company Earning Calls**
-</p>
+<h1 align="center">DigiCall: A Benchmark for Digital Strategy through Company Earning Call</h1>
+
 Over the last decades, digital transformation has emerged as an
 important phenomenon that enables growth opportunities to organizations.
 Digital transformation reinvents the company, its vision
