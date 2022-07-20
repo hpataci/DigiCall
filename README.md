@@ -25,7 +25,7 @@ Therefore, our work is expected to provide an empirical baseline
 for industry and academia to measure the digital strategy of
 the firms.
 
-
+ 
 <p align="center">
   <img width="800" src="benchmark.png" alt="The Results">
 </p>
