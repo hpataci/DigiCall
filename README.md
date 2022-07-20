@@ -25,6 +25,8 @@ and reach the state-of-the-art accuracy levels. Therefore, our work
 is expected to provide an empirical baseline for companies and
 researchers to measure the digital strategy of the firms.
 
+![Our Results](benchmark.png)
+
 
  3691 Earning Call transcripts of S&P 500 companies in 2018 and 2019:
 
