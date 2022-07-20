@@ -32,7 +32,9 @@ researchers to measure the digital strategy of the firms.
   <img width="800" src="benchmark.png" alt="The Results">
 </p>
 
- 3.691 Earning Call transcripts of S&P 500 companies in 2018 and 2019:
+
+ **3.691 Earning Call transcripts of S&P 500 companies in 2018 and 2019:**
+
 
 ```
 https://drive.google.com/drive/folders/1LR08Px8Ke4aB4RRBPMxWFolqzZ6Wq35W?usp=sharing
@@ -42,7 +44,9 @@ OR
 ```
 !gdown --id 1LR08Px8Ke4aB4RRBPMxWFolqzZ6Wq35W
 ```
-For Annotated Data:
+
+**For Annotated Data:**
+
 
 ```
 https://github.com/hpataci/DigiCall/blob/main/data/annotated_earningcalls.csv
