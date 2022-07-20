@@ -1,7 +1,8 @@
 
 <h1 align="center">DigiCall</h1>
-## DigiCall: A Benchmark for Digital Strategy through Company Earning Calls
-
+<p align="center">
+**DigiCall: A Benchmark for Digital Strategy through Company Earning Calls**
+</p>
 Over the last decades, digital transformation has emerged as an
 important phenomenon that enables growth opportunities to organizations.
 Digital transformation reinvents the company, its vision
@@ -26,8 +27,9 @@ and reach the state-of-the-art accuracy levels. Therefore, our work
 is expected to provide an empirical baseline for companies and
 researchers to measure the digital strategy of the firms.
 
-![Our Results](benchmark.png)
-
+<p align="center">
+  <img width="800" src="benchmark.png" alt="The Results">
+</p>
 
  3691 Earning Call transcripts of S&P 500 companies in 2018 and 2019:
 
