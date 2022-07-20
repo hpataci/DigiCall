@@ -23,7 +23,7 @@ measure the digital strategy maturity of companies, we leverage
 the state-of-the-art NLP models on unstructured data (earning call
 transcripts), and reach the state-of-the-art levels (F-1 weighted 94%).
 Therefore, our work is expected to provide an empirical baseline
-for companies and researchers to measure the digital strategy of
+for industry and academia to measure the digital strategy of
 the firms.
 
 
