@@ -1,4 +1,5 @@
-# **DigiCall**
+
+<h1 align="center">DigiCall</h1>
 ## DigiCall: A Benchmark for Digital Strategy through Company Earning Calls
 
 Over the last decades, digital transformation has emerged as an
