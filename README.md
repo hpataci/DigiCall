@@ -41,9 +41,6 @@ OR
 **For Annotated Data:**
 
 
-```
-https://github.com/hpataci/DigiCall/blob/main/data/annotated_earningcalls.csv
-```
 
 OR
 
