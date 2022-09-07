@@ -28,22 +28,16 @@ the firms.
 
  **3.691 Earning Call transcripts of S&P 500 companies in 2018 and 2019:**
 
+2019 data:
+```
+https://drive.google.com/drive/folders/1h8AiHstbcpJXltBGvkMiaVgo7OcrlXka?usp=sharing
+```
+2018 data:
 
 ```
-https://drive.google.com/drive/folders/1LR08Px8Ke4aB4RRBPMxWFolqzZ6Wq35W?usp=sharing
-```
-OR
-
-```
-!gdown --id 1LR08Px8Ke4aB4RRBPMxWFolqzZ6Wq35W
+https://drive.google.com/drive/folders/1bqe-Tt34tFpSlzsuE8ZyDtCq-zlSTBkM?usp=sharing
 ```
 
 **For Annotated Data:**
 
-
-
-OR
-
-```
-!gdown --id 15UFD8alS79ri-gBnaWTKy0iXSES2mJMY
-```
+Please see data folder
