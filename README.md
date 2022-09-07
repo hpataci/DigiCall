@@ -39,5 +39,4 @@ https://drive.google.com/drive/folders/1bqe-Tt34tFpSlzsuE8ZyDtCq-zlSTBkM?usp=sha
 ```
 
 **For Annotated Data:**
-
-Please see data folder
+https://docs.google.com/spreadsheets/d/1TWOsazXyX5URm1IO7lHmQ5zowJ7ZpxCfKm0HVmlCJ4A/edit?usp=sharing
