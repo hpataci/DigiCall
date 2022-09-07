@@ -26,11 +26,6 @@ for industry and academia to measure the digital strategy of
 the firms.
 
 
-<p align="center">
-  <img width="800" src="benchmark.png" alt="The Results">
-</p>
-
-
  **3.691 Earning Call transcripts of S&P 500 companies in 2018 and 2019:**
 
 
