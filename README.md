@@ -6,17 +6,3 @@ Digital transformation reinvents companies, their vision and strategy, organizat
 
 Please cite (ACL): https://aclanthology.org/2022.finnlp-1.7/ 
 
- **3.691 Earning Call transcripts of S&P 500 companies in 2018 and 2019:**
-
-2019 data:
-```
-https://drive.google.com/drive/folders/1h8AiHstbcpJXltBGvkMiaVgo7OcrlXka?usp=sharing
-```
-2018 data:
-
-```
-https://drive.google.com/drive/folders/1bqe-Tt34tFpSlzsuE8ZyDtCq-zlSTBkM?usp=sharing
-```
-
-**For Annotated Data:**
-https://docs.google.com/spreadsheets/d/1TWOsazXyX5URm1IO7lHmQ5zowJ7ZpxCfKm0HVmlCJ4A/edit?usp=sharing
